@@ -1,0 +1,17 @@
+{
+    "statusCode": 200,
+    "data": {
+        "_id": "6890ce12f1c3d8e95a0f15ca",
+        "username": "hondejf2ddffe",
+        "email": "adbc2@gamil.comcdfddd",
+        "fullname": "one2",
+        "avatar": "http://res.cloudinary.com/dy96rva1q/image/upload/v1754320400/rqys0adr0cttu5d2epg9.png",
+        "coverImage": "http://res.cloudinary.com/dy96rva1q/image/upload/v1754320401/zf33bd6nctoiar8lkiar.png",
+        "watchHistory": [],
+        "createdAt": "2025-08-04T15:13:22.273Z",
+        "updatedAt": "2025-08-04T15:13:22.273Z",
+        "__v": 0
+    },
+    "message": "User registered successfully",
+    "success": true
+}
